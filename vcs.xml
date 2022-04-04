@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/springframeworkguru/sfg-di.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Tap-Payments/TapAPIs-Status-Automation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Repo" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Tap Repository" />
   </component>
 </application>

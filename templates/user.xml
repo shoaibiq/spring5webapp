@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="@a" value="@author - Shoaib Iqbal" description="@author - Shoaib Iqbal" toReformat="false" toShortenFQNames="true" />
+</templateSet>
